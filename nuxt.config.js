@@ -2,7 +2,7 @@
 export default {
   mode: 'universal',
   router: {
-    base: 'portfolio'
+    base: '/portfolio/'
   },
   /*
   ** Headers of the page
